@@ -1,6 +1,6 @@
 {
   "name": "adonis-sophos",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Bite-size nuggets of inspiration for your next big startup idea.",
   "main": "index.js",
   "scripts": {
