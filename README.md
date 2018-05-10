@@ -17,7 +17,7 @@ Register provider inside `start/app.js` file.
 
 ```js
 const providers = [
-  '@adonisjs/sophos/providers/SophosProvider'
+  'adonis-sophos/providers/SophosProvider'
 ]
 ```
 
