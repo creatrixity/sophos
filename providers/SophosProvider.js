@@ -7,7 +7,7 @@
  *
  */
 
-const { ServiceProvider } = require('@adonisjs/fold')
+const { ServiceProvider } = use('@adonisjs/fold')
 
 class SophosProvider extends ServiceProvider {
 

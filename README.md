@@ -6,12 +6,12 @@ Adonis Sophos is an NPM package for Adonisjs that returns daily tidbits of wisdo
 
 Simply run the below command and follow the instructions below.
 
-    npm install --save @adonisjs/sophos
+    npm install --save adonis-sophos
 
 If using Yarn
 
-    yarn add --save @adonisjs/sophos
-    
+    yarn add --save adonis-sophos
+
 ## Register provider
 Register provider inside `start/app.js` file.
 
